@@ -1,8 +1,10 @@
 A. Judul Program
-\nProgram Mengurutkan Nilai IPK Mahasiswa
+
+Program Mengurutkan Nilai IPK Mahasiswa
 
 B. Deskripsi Singkat
-\n“Program Mengurutkan nilai IPK Mahasiswa” berfungsi untuk mengelola data mahasiswa yang terdiri atas nama dan IPK. Kemudian, data tersebut diurutkan  berdasarkan nilai IPK. Pengguna diminta untuk memasukkan jumlah mahasiswa serta data masing-masing mahasiswa, lalu program akan menyimpan data tersebut dalam bentuk list berisi tuple (nama, ipk). Setelah itu, program menampilkan data sebelum diurutkan dan melakukan proses pengurutan menggunakan Exchange Sort sehingga menghasilkan daftar mahasiswa dengan IPK yang berurutan dari yang tertinggi ke terendah.
+
+“Program Mengurutkan nilai IPK Mahasiswa” berfungsi untuk mengelola data mahasiswa yang terdiri atas nama dan IPK. Kemudian, data tersebut diurutkan  berdasarkan nilai IPK. Pengguna diminta untuk memasukkan jumlah mahasiswa serta data masing-masing mahasiswa, lalu program akan menyimpan data tersebut dalam bentuk list berisi tuple (nama, ipk). Setelah itu, program menampilkan data sebelum diurutkan dan melakukan proses pengurutan menggunakan Exchange Sort sehingga menghasilkan daftar mahasiswa dengan IPK yang berurutan dari yang tertinggi ke terendah.
 Teknik sorting yang diterapkan dalam program ini adalah Exchange Sort dengan menggunakan struktur data list satu dimensi. Exchange Sort bekerja dengan cara membandingkan elemen dengan seluruh elemen lainnya, kemudian menukar posisi elemen jika ditemukan urutan yang tidak sesuai. Dalam program ini, perbandingan difokuskan pada elemen kedua dari tuple, yaitu IPK. Proses ini dilakukan secara berulang hingga seluruh data tersusun rapi sesuai pengurutan yang diinginkan.
 
 C. Source Code
@@ -56,4 +58,5 @@ D. Output Program
 Pada output, program meminta jumlah mahasiswa yang ingin diinputkan dan diisi 3 oleh pengguna. Mahasiswa pertama yang diinputkan adalah putri dengan nilai IPK 3.4. Mahasiswa kedua adalah raka dengan nilai IPK 3.7. Kemudian, mahasiswa yang ketiga adalah nial dengan nilai IPK 4. Selanjutnya, program menampilkan data mahasiswa yang sudah diinputkan oleh pengguna sebelum diurutkan. Setelah itu, program menampilkan data yang sudah diurutkan menggunakan exchange sort. Nial dengan nilai IPK tertinggi berada di posisi pertama, dilanjutkan dengan raka di posisi kedua dan putri di posisi ketiga.
 
 E. Link YouTube
-\nhttps://www.youtube.com/watch?v=LEZLLrPFkxE
+
+https://www.youtube.com/watch?v=LEZLLrPFkxE
