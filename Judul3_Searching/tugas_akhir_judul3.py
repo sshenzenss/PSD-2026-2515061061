@@ -12,7 +12,7 @@ def sequential_search(data, n, target):
         main()
 
 def main():
-    data = [101, 102, 103, 104, 105, 106, 107, 108, 109, 110]
+    data = [105, 110, 201, 207, 301, 109, 206, 108, 109, 304]
     n = len(data)
     print(f"Data Kamar: {data}")
     while True:
