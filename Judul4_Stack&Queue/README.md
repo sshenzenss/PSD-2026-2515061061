@@ -4,7 +4,7 @@ Program Antrian Nasabah Bank
 
 B. DESKRIPSI SINGKAT
 
-Program tersebut merupakan sebuah simulasi sistem antrian nasabah bank yang dibuat menggunakan bahasa Python. Program ini memungkinkan pengguna untuk menambahkan nasabah ke dalam antrian, memanggil nasabah sesuai urutan kedatangan, melihat nasabah yang berada di posisi paling depan, serta menampilkan seluruh isi antrian. Setiap nasabah akan mendapatkan nomor antrian secara otomatis sesuai urutan kedatangan. Program berjalan secara interaktif menggunakan menu pilihan sehingga pengguna dapat mengelola antrian dengan mudah. 
+Program ini memungkinkan pengguna untuk menambahkan nasabah ke dalam antrian, memanggil nasabah sesuai urutan kedatangan, melihat nasabah yang berada di posisi paling depan, serta menampilkan seluruh isi antrian. Setiap nasabah akan mendapatkan nomor antrian secara otomatis sesuai urutan kedatangan. Program berjalan secara interaktif menggunakan menu pilihan sehingga pengguna dapat mengelola antrian dengan mudah. 
 
 Struktur data yang diterapkan pada program ini adalah Queue (antrian) dengan metode implementasi Linked List. Queue bekerja menggunakan prinsip FIFO (First In First Out), yaitu data yang pertama masuk akan menjadi data pertama yang keluar. Pada implementasinya, program menggunakan class Node untuk menyimpan data dan pointer menuju node berikutnya, sedangkan class QueueLinkedList digunakan untuk mengatur operasi-operasi queue seperti enqueue, dequeue, peek, dan display. Penggunaan linked list membuat proses penambahan dan penghapusan data menjadi lebih efisien karena tidak perlu menggeser elemen seperti pada array.
 
