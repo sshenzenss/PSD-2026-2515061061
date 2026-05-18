@@ -9,9 +9,13 @@ Program tersebut merupakan sebuah simulasi sistem antrian nasabah bank yang dibu
 Struktur data yang diterapkan pada program ini adalah Queue (antrian) dengan metode implementasi Linked List. Queue bekerja menggunakan prinsip FIFO (First In First Out), yaitu data yang pertama masuk akan menjadi data pertama yang keluar. Pada implementasinya, program menggunakan class Node untuk menyimpan data dan pointer menuju node berikutnya, sedangkan class QueueLinkedList digunakan untuk mengatur operasi-operasi queue seperti enqueue, dequeue, peek, dan display. Penggunaan linked list membuat proses penambahan dan penghapusan data menjadi lebih efisien karena tidak perlu menggeser elemen seperti pada array.
 
 C. Source Code
+
 <img width="835" height="514" alt="image" src="https://github.com/user-attachments/assets/ea5e95d7-cb32-4e71-875e-58389ba6311e" />
+
 <img width="830" height="515" alt="image" src="https://github.com/user-attachments/assets/5f9e081c-5b20-480a-accf-589bfd181603" />
+
 <img width="833" height="511" alt="Cuplikan layar 2026-05-18 182356" src="https://github.com/user-attachments/assets/45b1d78f-d780-4b1d-a844-665ad17c0c6e" />
+
 Penjelasan kode per baris
 1. Judul program.
 2. -
@@ -106,8 +110,11 @@ Penjelasan kode per baris
 91. Memanggil fungsi utama program
 
 D. Output Program
+
 <img width="833" height="511" alt="Cuplikan layar 2026-05-18 182356" src="https://github.com/user-attachments/assets/8d267c2a-e30f-4374-a2b6-cf7931a63732" />
+
 <img width="833" height="511" alt="Cuplikan layar 2026-05-18 182356" src="https://github.com/user-attachments/assets/fff0ee49-6138-4b38-b9ae-ae2e794f810f" />
+
 <img width="916" height="335" alt="Cuplikan layar 2026-05-17 130941" src="https://github.com/user-attachments/assets/bb6aa407-2204-4af1-b4b3-ef223f150f0d" />
 
 Program antrian nasabah bank berjalan sesuai konsep struktur data queue dengan metode FIFO (First In First Out). Pada awal program, user memilih menu “Tambahkan ke Antrian” lima kali dan memasukkan nama nasabah, yaitu marko, mei, john, martin, dan nara. Program secara otomatis memberikan nomor antrian mulai dari 1 hingga 5 sesuai urutan input. Setelahnya, user memilih menu “Tampilkan Antrian”. Program kemudian menampilkan seluruh isi queue sesuai urutan kedatangan, yaitu (1, 'marko'), (2, 'mei'), (3, 'john'), (4, 'martin'), dan (5, 'nara').
