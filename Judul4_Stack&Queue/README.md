@@ -111,9 +111,9 @@ Penjelasan kode per baris
 
 D. Output Program
 
-<img width="833" height="511" alt="Cuplikan layar 2026-05-18 182356" src="https://github.com/user-attachments/assets/8d267c2a-e30f-4374-a2b6-cf7931a63732" />
+<img width="921" height="451" alt="Cuplikan layar 2026-05-17 130904" src="https://github.com/user-attachments/assets/e07ef147-48e2-43ab-843f-e94b3c5adf89" />
 
-<img width="833" height="511" alt="Cuplikan layar 2026-05-18 182356" src="https://github.com/user-attachments/assets/fff0ee49-6138-4b38-b9ae-ae2e794f810f" />
+<img width="923" height="518" alt="Cuplikan layar 2026-05-17 130922" src="https://github.com/user-attachments/assets/f555c00d-820b-452a-b68e-48537c26dd3e" />
 
 <img width="916" height="335" alt="Cuplikan layar 2026-05-17 130941" src="https://github.com/user-attachments/assets/bb6aa407-2204-4af1-b4b3-ef223f150f0d" />
 
