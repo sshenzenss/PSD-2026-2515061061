@@ -7,10 +7,10 @@ Program tersebut berfungsi sebagai sistem untuk mengelola data umur pasien pada 
 Struktur data dan algoritma yang diterapkan pada program ini adalah Binary Search Tree (BST). BST merupakan struktur data pohon biner yang memiliki aturan bahwa nilai pada subtree kiri selalu lebih kecil dari root, sedangkan nilai pada subtree kanan selalu lebih besar dari root. Program menerapkan beberapa operasi utama BST seperti insert untuk menambahkan data, search untuk mencari data, inorder traversal untuk menampilkan data secara terurut, find_min untuk mencari nilai terkecil, find_max untuk mencari nilai terbesar, dan count_nodes untuk menghitung jumlah node. Dengan menggunakan BST, proses pencarian dan pengelolaan data dapat dilakukan lebih cepat dan terstruktur.
 
 SOURCE CODE:
-![1](image.png)
-![2](image-1.png)
-![3](image-2.png)
-![4](image-3.png)
+<img width="1844" height="969" alt="Cuplikan layar 2026-05-24 210820" src="https://github.com/user-attachments/assets/ee59ab85-a3f5-4e24-a1fb-fddf677109ab" />
+<img width="1843" height="989" alt="Cuplikan layar 2026-05-24 210911" src="https://github.com/user-attachments/assets/b46f563e-9a7e-46de-bb84-f9c52b280874" />
+<img width="1844" height="997" alt="Cuplikan layar 2026-05-24 210936" src="https://github.com/user-attachments/assets/bea55396-0c53-443a-b503-99f483e89176" />
+<img width="1849" height="638" alt="Cuplikan layar 2026-05-24 211001" src="https://github.com/user-attachments/assets/c902861a-7a76-4120-a5bf-35cf07c7ac8d" />
 
 penjelasan kode per baris
 1. Membuat class Node yang digunakan sebagai node pada Binary Search Tree (BST).
@@ -127,11 +127,12 @@ penjelasan kode per baris
 112. Menjalankan fungsi utama program.
 
 D. OUTPUT PROGRAM:
-![1](image-4.png)
-![2](image-5.png)
-![3](image-6.png)
-![4](image-7.png)
-![5](image-8.png)
+<img width="1848" height="932" alt="Cuplikan layar 2026-05-24 211723" src="https://github.com/user-attachments/assets/ac2f04c1-7d04-498c-a8cf-b13785892eae" />
+<img width="1845" height="1036" alt="Cuplikan layar 2026-05-24 211811" src="https://github.com/user-attachments/assets/eb1276d7-4687-4f18-8a4b-293d17ec4582" />
+<img width="1843" height="1043" alt="Cuplikan layar 2026-05-24 211845" src="https://github.com/user-attachments/assets/cd904724-f633-4c13-a452-85a8c0866b1d" />
+<img width="1849" height="1026" alt="Cuplikan layar 2026-05-24 211911" src="https://github.com/user-attachments/assets/6db4af9a-fc6a-4b39-ab9c-792764dd2cee" />
+<img width="1847" height="714" alt="Cuplikan layar 2026-05-24 211938" src="https://github.com/user-attachments/assets/073834c4-1ccd-46de-920e-72ae8aaaca60" />
+
 
 Program menampilkan menu utama data umur pasien klinik. Pengguna kemudian memilih menu nomor 1 untuk memasukkan data umur pasien ke dalam Binary Search Tree (BST). Data umur yang dimasukkan secara berurutan adalah 30, 32, 25, 10, 65, 43, dan 2. Setiap data yang berhasil dimasukkan akan menampilkan pesan “Data berhasil dimasukkan”. Setelah seluruh data tersimpan, pengguna memilih menu nomor 3 untuk menampilkan seluruh umur pasien secara terurut dari yang termuda hingga tertua menggunakan traversal inorder pada BST. Hasil yang ditampilkan adalah 2, 10, 25, 30, 32, 43, dan 65.
 
