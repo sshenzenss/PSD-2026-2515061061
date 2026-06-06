@@ -10,9 +10,9 @@ Struktur data yang diterapkan dalam program ini adalah Hash Map dengan metode Op
 
 C. Source Code
 
-![alt text](<Cuplikan layar 2026-06-06 213134.png>)
-![alt text](<Cuplikan layar 2026-06-06 213157.png>)
-![alt text](<Cuplikan layar 2026-06-06 213234.png>)
+<img width="836" height="521" alt="Cuplikan layar 2026-06-06 213134" src="https://github.com/user-attachments/assets/b4a0d9b9-84a6-486d-9deb-4634df4c5266" />
+<img width="831" height="518" alt="Cuplikan layar 2026-06-06 213157" src="https://github.com/user-attachments/assets/c1c4a3dc-6325-4a9c-bc06-9170fbb38af8" />
+<img width="830" height="516" alt="Cuplikan layar 2026-06-06 213234" src="https://github.com/user-attachments/assets/ecde83f5-aba3-4ea9-97b6-b02a594b1da1" />
 
 Penjelasan kode per baris
 1. Membuat kelas bernama SlotState untuk mendefinisikan status dari setiap slot di tabel hash.
@@ -119,9 +119,9 @@ Penjelasan kode per baris
 
 D. Output Program
 
-![Ouput 1](<Cuplikan layar 2026-06-06 212149.png>)
-![Output 2](<Cuplikan layar 2026-06-06 212209.png>)
-![Output 3](<Cuplikan layar 2026-06-06 212223.png>)
+<img width="736" height="521" alt="Cuplikan layar 2026-06-06 212149" src="https://github.com/user-attachments/assets/61c8274e-0ca6-4b2f-9e69-6c8ad890d2fb" />
+<img width="737" height="522" alt="Cuplikan layar 2026-06-06 212209" src="https://github.com/user-attachments/assets/c1892adf-9141-4759-8015-6d5a2e25c07d" />
+<img width="745" height="509" alt="Cuplikan layar 2026-06-06 212223" src="https://github.com/user-attachments/assets/abac5dc2-0c76-4f7a-8a68-3f2f4ddb4a15" />
 
 Proses diawali dengan penambahan tiga data minuman menggunakan menu 1. Pertama, pengguna memasukkan kode 1 untuk "latte", yang berhasil ditempatkan di indeks 1 karena hasil hash-nya adalah 1. Kedua, pengguna memasukkan kode 12 untuk "matcha". Kode 12 menghasilkan indeks 2 sesuai dengan rumus fungsi hash. Ketiga, pengguna memasukkan kode 7 untuk "coffe" yang kemudian menempati indeks 7. Ketika pengguna memilih menu 4 untuk menampilkan semua data, program memperlihatkan kondisi tabel di mana indeks 1 berisi "latte", indeks 2 berisi "matcha", indeks 7 berisi "coffe", sedangkan indeks lainnya berstatus "EMPTY".
 
